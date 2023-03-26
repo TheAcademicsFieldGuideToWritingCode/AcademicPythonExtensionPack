@@ -10,6 +10,10 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "Microsoft.vscode-python",
+    "MicrosoftDocs.intellicode",
+    "microsoft.vscode-black-formatter",
+    "NilsJPWerner.autoDocstring",
+    "kbrose.vsc-python-indent"
   ]
 }

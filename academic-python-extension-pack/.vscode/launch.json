@@ -10,7 +10,7 @@
             "type": "extensionHost",
             "request": "launch",
             "args": [
-                "--extensionDevelopmentPath=${workspaceFolder}"
+                "--extensionDevelopmentPath=${/Users/nathanlaundry/projects/TheAcademicsFieldGuideToWritingCode/AcademicPythonExtensionPack/academic-python-extension-pack}"
             ]
         }
     ]
