@@ -1,0 +1,15 @@
+{
+  "name": "academic-python-extension-pack",
+  "displayName": "Academic Python Extension Pack",
+  "description": "A minimal set of Python extensions to get academic python writers off the ground.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
